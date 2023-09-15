@@ -1,0 +1,12 @@
+Input Format: N = 6
+
+Result:   
+     A     
+    ABA    
+   ABCBA   
+  ABCDCBA  
+ ABCDEDCBA 
+ABCDEFEDCBA
+
+CODE:
+
